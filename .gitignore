@@ -10,3 +10,9 @@
 *.lai
 *.la
 *.a
+
+# Mac OS X specific
+.DS_Store
+
+# binary file
+tchess
